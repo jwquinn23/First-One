@@ -1,0 +1,9 @@
+Tue, 28 Feb 2012 10:23:26 -0500
+doc/README_FOR_APP	Mon, 27 Feb 2012 16:16:24 -0500
+app/controllers/application_controller.rb	Mon, 27 Feb 2012 16:16:22 -0500
+app/controllers/home_controller.rb	Tue, 28 Feb 2012 10:13:55 -0500
+app/controllers/posts_controller.rb	Tue, 28 Feb 2012 10:19:14 -0500
+app/helpers/application_helper.rb	Mon, 27 Feb 2012 16:16:22 -0500
+app/helpers/home_helper.rb	Mon, 27 Feb 2012 16:22:31 -0500
+app/helpers/posts_helper.rb	Tue, 28 Feb 2012 10:19:14 -0500
+app/models/post.rb	Tue, 28 Feb 2012 10:19:14 -0500
